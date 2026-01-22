@@ -3,6 +3,7 @@ Calculator developed using MATLAB
 # MATLAB GUI-Based Scientific Calculator
 
 Calculator Project (GUI-based, MATLAB)
+
 🖥 Overview
 
 This is a GUI-based Calculator developed in MATLAB during my internship. It supports basic arithmetic, powers, and scientific functions.
