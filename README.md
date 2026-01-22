@@ -2,39 +2,37 @@
 Calculator developed using MATLAB 
 # MATLAB GUI-Based Scientific Calculator
 
-This project is a **GUI-based Scientific Calculator** developed using **MATLAB App Designer** during my **MATLAB Internship**.  
-It allows users to perform both **basic arithmetic** and **advanced scientific operations** with a clean, interactive interface. All trigonometric calculations (`sin`, `cos`, `tan`) are implemented in **degrees**, making it intuitive for engineering and scientific purposes.
+Calculator Project (GUI-based, MATLAB)
+🖥 Overview
 
----
+This is a GUI-based Calculator developed in MATLAB during my internship. It supports basic arithmetic, powers, and scientific functions.
 
-## 🔹 Features
+Functions: Add, Subtract, Multiply, Divide, Power, Sin, Cos, Tan, Log
 
-### **Basic Arithmetic Operations**
-- Addition (`+`)
-- Subtraction (`-`)
-- Multiplication (`×`)
-- Division (`÷`)
+Angle Mode: Trigonometric functions use degrees.
 
-### **Scientific Functions**
-- Power (`xʸ`)
-- Sine (`sin(θ)` in degrees)
-- Cosine (`cos(θ)` in degrees)
-- Tangent (`tan(θ)` in degrees)
-- Logarithm (`log(x)`)
+🛠 Features
 
-### **Other Key Features**
-- Interactive **GUI interface** with buttons and display
-- Error handling for invalid inputs (e.g., division by zero)
-- Modular design using MATLAB functions for each operation
-- Easy to extend for additional operations in future
+GUI-based interactive calculator
 
----
+Supports arithmetic and scientific operations
 
-## 🔹 Tools & Technologies Used
-- **MATLAB** – Core development
-- **App Designer** – GUI design
-- **MATLAB Built-in Functions** – For mathematical calculations (`sind`, `cosd`, `tand`, `log`, `^`)
+Angle-based trigonometric functions (degrees)
 
----
+Clean and user-friendly interface
 
+🧩 Implementation Details
 
+Developed using MATLAB GUIDE
+
+Uses edit boxes and pushbuttons for input
+
+Error handling for invalid operations
+
+📈 Future Improvements
+
+Add history feature to store previous calculations
+
+Implement dark/light themes
+
+Extend functionality with matrix operations
