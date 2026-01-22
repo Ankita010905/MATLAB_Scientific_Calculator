@@ -14,26 +14,26 @@ Angle Mode: Trigonometric functions use degrees.
 
 🛠 Features
 
-GUI-based interactive calculator
+- GUI-based interactive calculator
 
-Supports arithmetic and scientific operations
+- Supports arithmetic and scientific operations
 
-Angle-based trigonometric functions (degrees)
+- Angle-based trigonometric functions (degrees)
 
-Clean and user-friendly interface
+- Clean and user-friendly interface
 
 🧩 Implementation Details
 
-Developed using MATLAB GUIDE
+- Developed using MATLAB GUIDE
 
-Uses edit boxes and pushbuttons for input
+- Uses edit boxes and pushbuttons for input
 
-Error handling for invalid operations
+- Error handling for invalid operations
 
 📈 Future Improvements
 
-Add history feature to store previous calculations
+- Add history feature to store previous calculations
 
-Implement dark/light themes
+- Implement dark/light themes
 
-Extend functionality with matrix operations
+- Extend functionality with matrix operations
